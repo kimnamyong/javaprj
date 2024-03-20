@@ -1,0 +1,3 @@
+Hello, World!
+Java is fun!
+한글이 나오나
